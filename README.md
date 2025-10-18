@@ -38,14 +38,13 @@
 
 ---
 
-## 🛠 Domain Tools
-![JD Edwards](https://img.shields.io/badge/JD%20Edwards-0A66C2?style=for-the-badge&logo=oracle&logoColor=white)
-![Manhattan WMS](https://img.shields.io/badge/Manhattan%20WMS-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
-![SFTP](https://img.shields.io/badge/SFTP-1F75FE?style=for-the-badge&logo=files&logoColor=white)
-![SPK](https://img.shields.io/badge/SPK-FF5733?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Business Console](https://img.shields.io/badge/Business%20Console-8A2BE2?style=for-the-badge&logo=datadog&logoColor=white)
-![Service Central](https://img.shields.io/badge/Service%20Central-FFD700?style=for-the-badge&logo=servicenow&logoColor=black)
-![MPX](https://img.shields.io/badge/MPX-008080?style=for-the-badge&logo=none&logoColor=white)
+## 🛠 Domain Names
+![CRM Domain](https://img.shields.io/badge/CRM%20Domain-FFD700?style=for-the-badge&logo=servicenow&logoColor=black)
+![E Commerce](https://img.shields.io/badge/E%20Commerce-0A66C2?style=for-the-badge&logo=oracle&logoColor=white)
+![Automobile and Manufacturing](https://img.shields.io/badge/Automobile%20and%20Manufacturing-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Health Care Domain](https://img.shields.io/badge/Health%20Care%20Domain-8A2BE2?style=for-the-badge&logo=datadog&logoColor=white)
+![Investment Banking](https://img.shields.io/badge/Investment%20Banking-FFD700?style=for-the-badge&logo=servicenow&logoColor=black)
+![Jwelery and Retailer](https://img.shields.io/badge/Jwelery%20And%20Retailer-FFD700?style=for-the-badge&logo=servicenow&logoColor=black)
 
 ---
 
