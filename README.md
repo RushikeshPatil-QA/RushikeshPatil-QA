@@ -53,4 +53,4 @@
 - 🔗 **LinkedIn:** [linkedin.com/in/rushikeshpatil1294](https://www.linkedin.com/in/rushikeshpatil1294)  
 - 🐙 **GitHub:** [github.com/RushikeshPatil-QA](https://github.com/RushikeshPatil-QA)  
 - ✉️ **Email:** [rushikeshpatil1294@gmail.com](mailto:rushikeshpatil1294@gmail.com)  
-- 🌐 **Portfilio:** [66ddb460ccdd64b468e7e4ea--rushikeshpatil572.netlify.app/](https://66ddb460ccdd64b468e7e4ea--rushikeshpatil572.netlify.app/)
+- 🌐 **Portfilio:** [rushikesh-patil.netlify.app/](https://rushikesh-patil.netlify.app/)
